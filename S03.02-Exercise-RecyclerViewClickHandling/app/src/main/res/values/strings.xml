@@ -38,10 +38,11 @@
 
     <!-- For labelling today's forecast [CHAR LIMIT=15] -->
     <string name="today">Today</string>
-
+    <string name="share_weather">Share</string>
+    <string name="open_map">Open Map</string>
     <!-- For labelling tomorrow's forecast [CHAR LIMIT=15] -->
     <string name="tomorrow">Tomorrow</string>
-
+    <string name="action_settings">Settings</string>
     <!-- Date format [CHAR LIMIT=NONE] -->
     <string name="format_full_friendly_date">
         <xliff:g id="month">%1$s</xliff:g>, <xliff:g id="day">%2$s</xliff:g>
